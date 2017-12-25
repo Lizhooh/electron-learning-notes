@@ -1,6 +1,5 @@
 ## electron-learning-notes
-
-《electron 开发笔记》（electron-learning-notes）是我在 electron 开发过程中记录的笔记（持续更新）。
+这不是学习笔记而是开发笔记。记录 Electron 开发过程的一些技巧。
 
 （内容随时间增长）
 
