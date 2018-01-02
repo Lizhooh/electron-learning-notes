@@ -1,7 +1,7 @@
 ## electron-learning-notes
-这不是学习笔记而是开发笔记。记录 Electron 开发过程的一些技巧。
+这不是学习笔记而是开发笔记。记录 Electron 开发过程的一些技巧，从实际去解决问题。
 
-（内容随时间增长）
+（内容随时间增长，不定期更新）
 
 目录：[electron-learning-notes](./SUMMARY.md)
 
